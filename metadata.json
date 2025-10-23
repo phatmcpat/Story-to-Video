@@ -1,0 +1,8 @@
+{
+  "name": "Idea to Videos",
+  "description": "A comprehensive web application showcasing the power of Google's Gemini API. Features include an advanced chatbot with 'thinking mode', text-to-image generation, image editing, text-to-video and image-to-video generation with Veo, video analysis, audio transcription, and an automated story-to-video production pipeline.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
